@@ -1,7 +1,3 @@
-.jmodal{
-
-}
-
 .jmodal.open .modal-overlay, 
 .jmodal.open .modal-window {
     opacity: 1;
